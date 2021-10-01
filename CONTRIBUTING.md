@@ -12,8 +12,8 @@ If you have something awesome to contribute to awesome-tech-stories , this is ho
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome list's GitHub page. For example: https://github.com/SwapnilChand/awesome-tech-stories
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://github.com/SwapnilChand/awesome-tech-stories/blob/main/README.md)
+1. Access the awesome list's GitHub page. For example: https://github.com/SwapnilChand/awesome-tech-stories 
+2. Click on the [`readme.md`](https://github.com/SwapnilChand/awesome-tech-stories/blob/main/README.md) file.
 3. Now click on the edit icon. 
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. 
 5. Say why you're proposing the changes, and then click on "Propose file change".
