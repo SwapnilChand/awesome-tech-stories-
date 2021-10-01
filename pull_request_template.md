@@ -11,7 +11,7 @@
 
 ### Overview of the project.
   - Starts at [**Contents** :](https://github.com/SwapnilChand/awesome-tech-stories#contents-)
-  - This consists of **[Different Fields Of Technology] ** (#different-fields-of-technology) like [Game Dev](https://github.com/SwapnilChand/awesome-tech-stories#game-development-)maintained in alphabetical order.
+  - This consists of **[Different Fields Of Technology]** (#different-fields-of-technology) like [Game Dev](https://github.com/SwapnilChand/awesome-tech-stories#game-development-) maintained in alphabetical order.
   - Clicking on any of these [fields](https://github.com/SwapnilChand/awesome-tech-stories#contents-) shows the list of stories of that particular field.
   > - Each of the entries in any field should consist of the following : - 
   >   - [Name / Title with the most appropriate link] **Category** (like Memes, Stories, Biography etc.).
