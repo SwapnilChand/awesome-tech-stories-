@@ -11,10 +11,11 @@
 
 ### Overview of the project.
   - Starts at [**Contents** :](https://github.com/SwapnilChand/awesome-tech-stories#contents-)
-  - This consists of **[Different Fields Of Technology] ** (#different-fields-of-technology) like [Game Dev](https://github.com/SwapnilChand/awesome-tech-stories#game-development-).
+  - This consists of **[Different Fields Of Technology] ** (#different-fields-of-technology) like [Game Dev](https://github.com/SwapnilChand/awesome-tech-stories#game-development-)maintained in alphabetical order.
   - Clicking on any of these [fields](https://github.com/SwapnilChand/awesome-tech-stories#contents-) shows the list of stories of that particular field.
   > - Each of the entries in any field should consist of the following : - 
   >   - [Name / Title with the most appropriate link] **Category** (like Memes, Stories, Biography etc.).
   >   - Below this, a short description with links to the project/people involved/events that occurred , etc. can be added, ideally, consisting of not more than 10 words.
+  >   - Each of these entries should be maintained in alphabetic order. 
   
-  ## Finally remember to not just add anything. [Awesome is awesome !](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)<br>In case of confusion, reach out to [me](https://github.com/SwapnilChand/). 
+  ## Finally remember to not just add anything. [Awesome is Awesome!](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)<br>In case of confusion, reach out to [me](https://github.com/SwapnilChand/). 
