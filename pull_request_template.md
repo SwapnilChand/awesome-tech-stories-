@@ -6,6 +6,7 @@
 [Explain what this list(s)/change(s) is/are about and why it should be included here]
 > Clearly explain the changes and ideas. 
 > If you are not sure about any changes, feel free to reach out to me. Check the links [here](https://github.com/SwapnilChand).
+<br>
 **Typo errors won't be considered as a valid `hacktoberfest-approved` PR. So keep that in mind! **
 
 ### Overview of the project.
