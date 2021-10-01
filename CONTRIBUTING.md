@@ -1,6 +1,6 @@
 # Contribution Guidelines
-Beginners can take a look at [here](https://guides.github.com) and [here](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github).
-Note that this project is participating in the Hacktober Fest 2021. So make sure you have registered for the same. <br>To register and learn more click [here](https://hacktoberfest.digitalocean.com/resources/participation).
+Beginners can take a look at [here](https://guides.github.com) and [here](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github).<br>
+Note that this project is participating in the Hacktober Fest 2021. So make sure you have registered for the same. To register and learn more click [here](https://hacktoberfest.digitalocean.com/resources/participation).
 
 ## Adding an awesome list
 Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
