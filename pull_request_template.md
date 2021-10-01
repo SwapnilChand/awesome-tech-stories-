@@ -7,7 +7,7 @@
 > Clearly explain the changes and ideas. 
 > If you are not sure about any changes, feel free to reach out to me. Check the links [here](https://github.com/SwapnilChand).
 <br>
-**Typo errors won't be considered as a valid `hacktoberfest-approved` PR. So keep that in mind! Read more [here](https://hacktoberfest.digitalocean.com/resources/qualitystandards).** 
+#### Typo errors won't be considered as a valid `hacktoberfest-approved` PR. So keep that in mind! Read more [here](https://hacktoberfest.digitalocean.com/resources/qualitystandards).
 
 ### Overview of the project.
   - Starts at [**Contents** :](https://github.com/SwapnilChand/awesome-tech-stories#contents-)
