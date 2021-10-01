@@ -1,4 +1,4 @@
-# Awesome Tech Stories 😎💻📚
+# Awesome Tech Stories 😎💻📚 | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > An awesome repo filled with stories about technologies in our lives, the stories behind them, the people who made it possible and the legacy. A storehouse for anyone who wants
 > to stay inspired in his / her field(s) of interest(s).
