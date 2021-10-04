@@ -21,7 +21,7 @@
   2. 
 
 ## [Cyber Security](https://en.wikipedia.org/wiki/Computer_security) :
-  1. [Next Generation of Phishing 2FA Tokens?](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/)<br>**(Article)**
+  1. [Next Generation of Phishing 2FA Tokens?](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/)<br>**(Story)**
   2.
   
 ## [Game Development](https://en.wikipedia.org/wiki/Video_game_development) :
