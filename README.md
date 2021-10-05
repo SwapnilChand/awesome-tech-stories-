@@ -30,4 +30,5 @@
   2.
  
 ## [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing) :
-  1.[Facebook SERVFAIL 4th October 2021](https://blog.cloudflare.com/october-2021-facebook-outage/)<br>**Story**
+  1.[Facebook SERVFAIL 4th October 2021](https://blog.cloudflare.com/october-2021-facebook-outage/)<br>**(Story)**
+  2.
