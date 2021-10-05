@@ -14,6 +14,7 @@
  1. [Android Robots](#android-robots)
  2. [Cyber Security](#cyber-security)
  3. [Game Development](#game-development)
+ 4. [Cloud Computing](#cloud-computing)
 
 
 ## [Android Robots](https://en.wikipedia.org/wiki/Android_(robot)) :
@@ -26,4 +27,7 @@
   
 ## [Game Development](https://en.wikipedia.org/wiki/Video_game_development) :
   1. [Can it run Crysis?](https://knowyourmeme.com/memes/but-can-it-run-crysis)<br>**(Meme)**
-  2.  
+  2.
+ 
+## [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing) :
+  1.[Facebook SERVFAIL 4th October 2021](https://blog.cloudflare.com/october-2021-facebook-outage/)<br>**Story**
