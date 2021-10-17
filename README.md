@@ -36,5 +36,6 @@
  
  ## [Mobile Development](https://en.wikipedia.org/wiki/Mobile_app_development) :
   1. [Motivation behind Fltter](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)<br>**(Story)**
-  2.
+  2. [Story of Android](https://www.businessinsider.in/the-android-story-how-it-evolved-over-the-years/articleshow/70800300.cms#:~:text=The%20history%20of%20Android%20actually,for%20powering%20the%20digital%20cameras.&text=was%20established%20in%202003%20in,Chris%20White%2C%20and%20Andy%20Rubin.)<br>**(Story)**
+  3. 
 
