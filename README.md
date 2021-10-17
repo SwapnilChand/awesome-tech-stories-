@@ -35,6 +35,7 @@
   2.
  
  ## [Mobile Development](https://en.wikipedia.org/wiki/Mobile_app_development) :
-  1. [Motivation behind Flutter](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)<br>**(Story)**
-  2.
+  1. [Motivation behind Fltter](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)<br>**(Story)**
+  2. [Story of Android](https://www.androidauthority.com/history-android-os-name-789433/)<br>**(Story)**
+  3. 
 
