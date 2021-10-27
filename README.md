@@ -16,6 +16,7 @@
  3. [Cyber Security](#cyber-security)
  4. [Game Development](#game-development)
  5. [Mobile Development](#mobile-development)
+ 6. [Developer's Life](#life-styles-of-developers)
 
 
 ## [Android Robots](https://en.wikipedia.org/wiki/Android_(robot)) :
@@ -38,4 +39,5 @@
   1. [Motivation behind Fltter](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)<br>**(Story)**
   2. [Story of Android](https://www.androidauthority.com/history-android-os-name-789433/)<br>**(Story)**
   3. 
-
+## [Developer's Life](https://en.wikipedia.org/wiki/Software_development) :
+  1.[Life in Silicon Valley](https://www.monster.com/career-advice/article/what-it-is-really-like-for-a-millennial-working-in-silicon-valley)<br>**(Story)**
