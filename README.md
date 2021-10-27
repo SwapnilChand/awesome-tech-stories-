@@ -40,4 +40,4 @@
   2. [Story of Android](https://www.androidauthority.com/history-android-os-name-789433/)<br>**(Story)**
   3. 
 ## [Developer's Life](https://en.wikipedia.org/wiki/Software_development) :
-  1.[Life in Silicon Valley](https://www.monster.com/career-advice/article/what-it-is-really-like-for-a-millennial-working-in-silicon-valley)<br>**(Story)**
+  1. [Life in Silicon Valley](https://www.monster.com/career-advice/article/what-it-is-really-like-for-a-millennial-working-in-silicon-valley)<br>**(Story)**
