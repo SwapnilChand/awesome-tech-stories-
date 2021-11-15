@@ -31,6 +31,9 @@
   1. [Next Generation of Phishing 2FA Tokens?](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/)<br>**(Story)**
   2.
   
+## [Developer's Life](https://en.wikipedia.org/wiki/Software_development) :
+  1. [Life in Silicon Valley](https://www.monster.com/career-advice/article/what-it-is-really-like-for-a-millennial-working-in-silicon-valley)<br>**(Story)**
+  
 ## [Game Development](https://en.wikipedia.org/wiki/Video_game_development) :
   1. [Can it run Crysis?](https://knowyourmeme.com/memes/but-can-it-run-crysis)<br>**(Meme)**
   2.
@@ -40,5 +43,4 @@
   2. [Story of Android](https://www.androidauthority.com/history-android-os-name-789433/)<br>**(Story)**
   3. [What makes a great mobile app development team](https://www.scnsoft.com/blog/what-makes-a-great-mobile-app-development-team)<br>**(Story)**
   4. 
-## [Developer's Life](https://en.wikipedia.org/wiki/Software_development) :
-  1. [Life in Silicon Valley](https://www.monster.com/career-advice/article/what-it-is-really-like-for-a-millennial-working-in-silicon-valley)<br>**(Story)**
+
